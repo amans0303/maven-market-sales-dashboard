@@ -39,4 +39,5 @@ The dashboard answers key business questions such as:
 - Weekly revenue shows clear seasonal spikes, useful for forecasting and inventory/staffing planning.
 
 ## Screenshots/Demo
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/asstes/image.png)
 Example: ![Dashboard Preview].(https://github.com/amans0303/maven-market-sales-dashboard/blob/main/image.png)
