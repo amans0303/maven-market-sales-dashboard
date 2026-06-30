@@ -38,6 +38,3 @@ The dashboard answers key business questions such as:
 - The USA contributes the overwhelming majority of total transactions compared to Canada and Mexico, indicating where current revenue concentration lies and where growth opportunity may exist in underpenetrated markets.
 - Weekly revenue shows clear seasonal spikes, useful for forecasting and inventory/staffing planning.
 
-## Screenshots/Demo
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/asstes/image.png)
-Example: ![Dashboard Preview].(https://github.com/amans0303/maven-market-sales-dashboard/blob/main/image.png)
